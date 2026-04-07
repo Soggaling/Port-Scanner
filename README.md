@@ -1,1 +1,6 @@
-download the portscanner and then press win + r and type cmd, type CD C:\path\to\file and after that type: py scanner.py [your ip here]
+Download or copy the source code.
+go into command prompt and change your directory to the source code
+and type python3 scanner.py or python scanner.py
+and input the IP you wanna port scan then done! 
+
+More scripts coming soon.
